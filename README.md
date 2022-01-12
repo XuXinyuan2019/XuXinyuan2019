@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @XuXinyuan2019
-- 👀 I’m interested in ...
+- 👀 I’m interested in Machine Learning, Web Development
 - 🌱 I’m currently a master student at CMU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me: xinyuanx@andrew.cmu.edu
 
 <!---
 XuXinyuan2019/XuXinyuan2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
