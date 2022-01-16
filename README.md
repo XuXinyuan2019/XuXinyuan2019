@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XuXinyuan2019
-- 👀 I’m interested in Machine Learning, Web Development
-- 🌱 I’m currently a master student at CMU
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in Machine Learning, Web Development...
+- 🌱 I’m currently a master student at CMU, majoring in Information System Management
+- 💞️ I’m looking for SDE/DE/DS intern positions and opportunities to collaborate on open source projects
 - 📫 How to reach me: xinyuanx@andrew.cmu.edu
 
 <!---
